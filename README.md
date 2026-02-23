@@ -1,5 +1,12 @@
 # 🐙 Welcome to My GitHub
-
+```
+              _ _                                
+   __ _ _   _(_) |_ __ _ _ __ ___ _ __ ___ _ __  
+  / _` | | | | | __/ _` | '__/ _ \ '__/ _ \ '_ \ 
+ | (_| | |_| | | || (_| | | |  __/ | |  __/ | | |
+  \__, |\__,_|_|\__\__,_|_|  \___|_|  \___|_| |_|
+  |___/                                          
+```
 ## 👤 About Me
 I am an **Embedded Systems Engineer** specializing in embedded coding and low-level development.  
 My professional focus is on building reliable, efficient, and optimized solutions for embedded platforms.
