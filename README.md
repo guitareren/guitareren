@@ -12,8 +12,8 @@ I am an **Embedded Systems Engineer** specializing in embedded coding and low-le
 My professional focus is on building reliable, efficient, and optimized solutions for embedded platforms.
 
 ## 🎓 Graduate
-- İstanbul Bilgi Üniversitesi  
-  **Electrical and Electronics Engineering** 2018
+- Istanbul Bilgi University 
+  [**Electrical and Electronics Engineering** 2018](https://www.bilgi.edu.tr/en/) 
 
 ## 📞 Contact
 - **Phone:** +90 539 760 05 61
