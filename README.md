@@ -11,6 +11,16 @@
 I am an **Embedded Systems Engineer** specializing in embedded coding and low-level development.  
 My professional focus is on building reliable, efficient, and optimized solutions for embedded platforms.
 
+## 🎓 Graduate
+- İstanbul Bilgi Üniversitesi  
+  **Electrical and Electronics Engineering** 2018
+
+## 📞 Contact
+- **Phone:** +90 539 760 05 61
+- **CV:** [More details on here](https://guitareren.github.io/cv/)  
+- **Email:** eren@erenavnc.com 
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/erenavunc/)
+
 ## 💻 Hobby Projects
 While my main expertise lies in embedded systems, the repositories you’ll find here also include code I’ve written for **fun, learning, and experimentation**.  
 These hobby projects reflect my curiosity and interest in exploring different technologies outside of my core work.
