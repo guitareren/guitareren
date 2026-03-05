@@ -13,7 +13,7 @@ My professional focus is on building reliable, efficient, and optimized solution
 
 ## 🎓 Graduate
 - Istanbul Bilgi University 
-  [**Electrical and Electronics Engineering** 2018](https://www.bilgi.edu.tr/en/) 
+  **Electrical and Electronics Engineering** 2018
 
 ## 📞 Contact
 - **Phone:** +90 539 760 05 61
