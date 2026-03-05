@@ -19,7 +19,7 @@ My professional focus is on building reliable, efficient, and optimized solution
 - **Phone:** +90 539 760 05 61
 - **CV:** [More details on here](https://guitareren.github.io/cv/)  
 - **Email:** eren@erenavnc.com 
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/erenavunc/)
+- **LinkedIn:** https://www.linkedin.com/in/erenavunc/
 
 ## 💻 Hobby Projects
 While my main expertise lies in embedded systems, the repositories you’ll find here also include code I’ve written for **fun, learning, and experimentation**.  
