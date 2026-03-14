@@ -16,7 +16,7 @@ My professional focus is on building reliable, efficient, and optimized solution
   **Electrical and Electronics Engineering** 2018
 
 ## 📞 Contact
-- **Phone:** +90 539 760 05 61
+- **Phone:** +90 53* *** ** **
 - **CV:** [More details on here](https://guitareren.github.io/cv/)  
 - **Email:** eren@erenavnc.com 
 - **LinkedIn:** https://www.linkedin.com/in/erenavunc/
